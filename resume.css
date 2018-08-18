@@ -1,0 +1,88 @@
+/* Importação da fonte Oswald */
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+.curriculo {
+  display: flex;
+  font-family: 'Oswald', sans-serif;
+  border-bottom: 0.08rem solid rgb(22, 22, 22);
+}
+.coluna {
+  flex: 50%;
+  padding: 10px;
+  border-bottom: 0;
+}
+.row {
+  border-bottom: 0;
+  display: inline-table;
+  width: 100%;
+  padding-left: 15%;
+}
+.emprego ul {
+  font-size: medium;
+  margin-bottom: 3.5%;
+}
+.idiomas, .tecnologias {
+  border-bottom: 0;
+}
+footer {
+  font-size: 180%;
+  text-align: center;
+  color:  rgb(23, 23, 23);
+  text-decoration: none;
+  width: 100%;
+  display: flex;
+}
+footer a{
+  color: rgb(23, 23, 23);
+}
+footer a:hover{
+  text-decoration: none;
+  color: #337AB7;
+}
+footer li {
+      display: inline;
+}
+footer div {
+  flex: 33%;
+  font-size: 80%;
+  margin: auto 15% auto 5% ;
+  border-bottom: 0;
+}
+.fa-github:hover {
+  color: dimgray;
+}
+.fa-google:hover {
+  color: #F35045;
+}
+
+@media only screen and (max-width: 768px) {
+  .resumo {
+    padding: 5px 8px;
+  }
+  .coluna {
+    width: 100%;
+    padding: 3px;
+  }
+  .row {
+    padding-left: 10%;
+  }
+  .proficiencia {
+    display: none;
+  }
+  #contato {
+    margin: auto 5% 5% auto;
+    font-size: 80%;
+  }
+  .dados li{
+    margin: 0;
+  }
+  .dados li:first-child {
+    margin-right: 5%;
+  }
+  .dados li:last-child {
+    display: none;
+  }
+  .dados li:nth-child(3){
+    display: none;
+  }
+}
