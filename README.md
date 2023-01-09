@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/nevesedudu)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@casepdu)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=duardon)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=snowmous3)
 
 I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
 
@@ -27,8 +27,8 @@ No Activity tracked this Week
 📈 **My GitHub Stats:**
 
 <p>
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DuardoN&hide=Batchfile&theme=dracula" />
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=DuardoN&show_icons=true&theme=dracula" alt="Eduardo  stats"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=snowmous3&hide=Batchfile&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=snowmous3&show_icons=true&theme=dracula" alt="Eduardo  stats"/>
 </p>
 
 
